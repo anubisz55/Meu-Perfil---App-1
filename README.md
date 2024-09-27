@@ -3,3 +3,6 @@ Crie um App chamado Meu Perfil Profissional, onde ele exiba a sua foto, dados pe
 
 Integrantes: Nubia Abreu de Oliveira
 Ariadne Saraiva dos Santos
+
+Atividade de Programação para Dispositivos Móveis
+
